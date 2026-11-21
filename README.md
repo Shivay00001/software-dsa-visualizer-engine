@@ -1,5 +1,7 @@
 # Software DSA Visualizer Engine
 
+Built by [VisionQuantech](https://visionquantech.com) — AI agents, apps & tools for small businesses.
+
 [![React](https://img.shields.io/badge/React-18.2-blue.svg)](https://reactjs.org/)
 [![Framer Motion](https://img.shields.io/badge/Framer_Motion-10.16-purple.svg)](https://www.framer.com/motion/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.2-blue.svg)](https://www.typescriptlang.org/)
@@ -53,4 +55,3 @@ MIT License
 
 ## Prerequisites
 - Required environment and dependencies
-
